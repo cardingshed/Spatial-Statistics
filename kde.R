@@ -21,8 +21,7 @@ data(japanesepines, redwoodfull, cells)
 #################################
 ### Kernel density estimation ###
 #################################
-par(mfrow=c(1,3))
+par(pin=c(4,4))
 plot(density(redwoodfull), main="Redwood")
 plot(density(japanesepines), main="Japanese")
 plot(density(cells), main="Cells")
-
