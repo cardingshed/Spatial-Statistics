@@ -1,4 +1,5 @@
 An Introduction to Point Pattern Analysis
 ==========================
-This is a collection of R-code and further resources in Team A's introduction to Spatial Statistics.
+R-code and detail from Team A's MAS6002 Spatial Statistics Presentation
+--------------------------
 *M Besford, A Hunter, R Johnson, LJ Spurling & K Thorn*
